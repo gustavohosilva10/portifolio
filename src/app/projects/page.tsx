@@ -117,7 +117,6 @@ function ProjectCard({
   name,
   description,
   imageUrl,
-  githubUrl,
   url,
   technologies,
 }: Project) {
